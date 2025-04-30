@@ -18,11 +18,21 @@ public class MainMenu {
             String choice = scanner.nextLine().trim().toUpperCase();
 
             switch (choice){
-                case "D" -> addTransaction(true);
-                case "P" -> addTransaction(false);
-                case "L" -> Ledger.ledgerMenu(transactions);
-                case "X" -> running = false;
-                default -> System.out.println("Not a option");
+                case "D" :
+                    addTransaction(true);
+                    break;
+                case "P" :
+                    addTransaction(false);
+                    break;
+                case "L" :
+                    Ledger.ledgerMenu(transactions);
+                    break;
+                case "X" :
+                    running = false;
+                    break;
+                default :
+                    System.out.println("Not a option");
+                    break;
             }
 
             transactions = TransactionFile.loadTransactions();
