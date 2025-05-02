@@ -21,11 +21,35 @@ A clean, command-line Java application to track income and expenses.
 - 🔍 Search by Vendor
 - 🧠 **Custom Search** (Challenge Feature): date range, vendor, and description filters
 
-- <html>
-<h1>Screenshots</h1>
-<h3>Main Menu</h3>
+## 📸 Screenshots
+
+### 🏠 Home Menu
 <details>
-<summary>Images</summary>
-<p><img alt="01. main menu" src="![home screem](https://github.com/user-attachments/assets/c2fe0fec-d23a-4993-b71a-eb77e7c19d51)
-"></p>
+<summary>Click to expand</summary>
+
+![Home Menu](![home screem](https://github.com/user-attachments/assets/86adae9d-deec-4aa8-a28c-103173e12580)
+)
+
+</details>
+
+---
+
+### 📂 Ledger Menu
+<details>
+<summary>Click to expand</summary>
+
+![Ledger Menu](![ledger](https://github.com/user-attachments/assets/3ff10064-905b-461e-aabf-5e9b682be13a)
+)
+
+</details>
+
+---
+
+### 📊 Reports Menu
+<details>
+<summary>Click to expand</summary>
+
+![Report Menu](![report](https://github.com/user-attachments/assets/f0ec2b56-75f7-4252-abb0-2711f4cc14b7)
+)
+
 </details>
