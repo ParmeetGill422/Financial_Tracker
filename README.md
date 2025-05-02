@@ -21,7 +21,7 @@ A clean and simple command-line Java application designed to help users track in
 - 📆 Year-To-Date
 - 🕰 Previous Year
 - 🔍 Search by Vendor
-- 🧠 **Custom Search** (Challenge Feature): date range, vendor, and description filters
+- 🧠 Custom Search: date range, vendor, and description filters
 
 ## 📸 Screenshots
 
