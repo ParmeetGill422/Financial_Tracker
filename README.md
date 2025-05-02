@@ -56,7 +56,7 @@ A clean and simple command-line Java application designed to help users track in
 
 
 <h1>Interesting Code</h1>
-This method sorts a list of transactions in descending order by date using a manual bubble sort algorithm. It compares each pair of adjacent transactions and swaps them if the earlier one comes after the later one, ensuring the most recent transactions appear first. A copy of the original list is used to avoid modifying the original data.
+This method sorts a list of transactions in descending order. It compares each pair of adjacent transactions and swaps them if the earlier one comes after the later one, ensuring the most recent transactions appear first. A copy of the original list is used to avoid modifying the original data.
 
 ```java
 private static List<Transaction> sortDescending(List<Transaction> list) {
