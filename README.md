@@ -27,8 +27,7 @@ A clean, command-line Java application to track income and expenses.
 <details>
 <summary>Click to expand</summary>
 
-![Home Menu](![home screem](https://github.com/user-attachments/assets/86adae9d-deec-4aa8-a28c-103173e12580)
-)
+![home screen](https://github.com/user-attachments/assets/86adae9d-deec-4aa8-a28c-103173e12580)
 
 </details>
 
@@ -38,8 +37,7 @@ A clean, command-line Java application to track income and expenses.
 <details>
 <summary>Click to expand</summary>
 
-![Ledger Menu](![ledger](https://github.com/user-attachments/assets/3ff10064-905b-461e-aabf-5e9b682be13a)
-)
+![ledger](https://github.com/user-attachments/assets/3ff10064-905b-461e-aabf-5e9b682be13a)
 
 </details>
 
@@ -49,7 +47,6 @@ A clean, command-line Java application to track income and expenses.
 <details>
 <summary>Click to expand</summary>
 
-![Report Menu](![report](https://github.com/user-attachments/assets/f0ec2b56-75f7-4252-abb0-2711f4cc14b7)
-)
+![report](https://github.com/user-attachments/assets/f0ec2b56-75f7-4252-abb0-2711f4cc14b7)
 
 </details>
